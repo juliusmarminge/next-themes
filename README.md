@@ -1,5 +1,8 @@
 # next-themes ![next-themes minzip package size](https://img.shields.io/bundlephobia/minzip/next-themes) [![Version](https://img.shields.io/npm/v/next-themes.svg?colorB=green)](https://www.npmjs.com/package/next-themes)
 
+> [!IMPORTANT]
+> This package is a FORK of [next-themes](https://github.com/pacocoursey/next-themes) with an updated publish config to better support app directory. I initially made a PR but did not get any response so I decided to publish my own fork. Orginal license and credits are still valid.
+
 An abstraction for themes in your Next.js app.
 
 - ✅ Perfect dark mode in 2 lines of code
