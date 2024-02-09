@@ -11,7 +11,7 @@
     "build": "bunchee",
     "dev": "bunchee -w",
     "release": "changelogen --bump --publish && changelogen gh release",
-    "release:nightly": "changelogen --prerelease --release && changelogen --publish"
+    "release:nightly": "changelogen --canary --release && changelogen --publish"
   },
   "peerDependencies": {
     "react": "^16.8 || ^17 || ^18",
