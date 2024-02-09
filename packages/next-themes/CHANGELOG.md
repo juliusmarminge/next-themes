@@ -1,6 +1,10 @@
 # Changelog
 
 
+## v0.3.1-4
+
+[compare changes](https://github.com/juliusmarminge/next-themes/compare/v0.3.1-3...v0.3.1-4)
+
 ## v0.3.1-3
 
 [compare changes](https://github.com/juliusmarminge/next-themes/compare/v0.3.1-2...v0.3.1-3)
