@@ -10,7 +10,7 @@
     "prepublish": "bunchee",
     "build": "bunchee",
     "dev": "bunchee -w",
-    "release": "changelogen --bump --publish && changelogen gh release",
+    "release": "changelogen --bump --publish --push && changelogen gh release",
     "release:nightly": "changelogen --canary && changelogen --publish --publishTag canary"
   },
   "peerDependencies": {
