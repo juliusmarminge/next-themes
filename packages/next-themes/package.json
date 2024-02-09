@@ -1,7 +1,7 @@
 {
   "name": "@juliusmarminge/next-themes",
   "type": "module",
-  "version": "0.3.1-1707470317.f555468",
+  "version": "0.3.1",
   "license": "MIT",
   "publishConfig": {
     "access": "public"
