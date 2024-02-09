@@ -1,6 +1,18 @@
 # Changelog
 
 
+## v0.3.1-1707470220.bdc70cd
+
+[compare changes](https://github.com/juliusmarminge/next-themes/compare/v0.3.1-4...v0.3.1-1707470220.bdc70cd)
+
+### 🏡 Chore
+
+- Eh? ([bdc70cd](https://github.com/juliusmarminge/next-themes/commit/bdc70cd))
+
+### ❤️ Contributors
+
+- Juliusmarminge <julius0216@outlook.com>
+
 ## v0.3.1-4
 
 [compare changes](https://github.com/juliusmarminge/next-themes/compare/v0.3.1-3...v0.3.1-4)
