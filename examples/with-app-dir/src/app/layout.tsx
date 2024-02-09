@@ -1,5 +1,5 @@
 import './globals.css'
-import { ThemeProvider } from '../components/ThemeProvider'
+import { ThemeProvider } from '@juliusmarminge/next-themes'
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (

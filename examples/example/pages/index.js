@@ -1,4 +1,4 @@
-import { useTheme } from 'next-themes'
+import { useTheme } from '@juliusmarminge/next-themes'
 import Link from 'next/link'
 import { useEffect, useState } from 'react'
 

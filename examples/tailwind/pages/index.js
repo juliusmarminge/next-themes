@@ -1,4 +1,4 @@
-import { useTheme } from 'next-themes'
+import { useTheme } from '@juliusmarminge/next-themes'
 
 export default function IndexPage() {
   const { theme, setTheme } = useTheme()

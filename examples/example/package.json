@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "next": "12.2.2",
-    "next-themes": "workspace:*",
+    "@juliusmarminge/next-themes": "workspace:*",
     "react": "18.2.0",
     "react-dom": "18.2.0"
   }

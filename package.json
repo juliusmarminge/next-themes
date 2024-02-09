@@ -5,14 +5,18 @@
     "build": "turbo build",
     "start": "turbo start",
     "dev": "turbo dev",
-    "test": "turbo test",
-    "test:e2e": "pnpm playwright test",
+    "test": "vitest",
+    "test:e2e": "playwright test",
     "format": "prettier . --write"
   },
   "devDependencies": {
     "@playwright/test": "^1.41.0",
     "prettier": "^3.2.4",
-    "turbo": "^1.11.3"
+    "@testing-library/react": "^14.1.2",
+    "jsdom": "^23.2.0",
+    "turbo": "^1.11.3",
+    "vite": "^5.0.12",
+    "vitest": "^1.2.1"
   },
   "repository": {
     "type": "git",

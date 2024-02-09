@@ -1,4 +1,4 @@
-import { ThemeProvider } from 'next-themes'
+import { ThemeProvider } from '@juliusmarminge/next-themes'
 import '../styles.css'
 
 function MyApp({ Component, pageProps }) {
