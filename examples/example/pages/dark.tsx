@@ -1,6 +1,6 @@
 import Link from 'next/link'
 
-const Page = () => {
+export default function Page() {
   return (
     <Link href="/">
       <a>Go back home</a>
@@ -9,4 +9,3 @@ const Page = () => {
 }
 
 Page.theme = 'dark'
-export default Page

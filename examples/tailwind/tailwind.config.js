@@ -1,4 +1,4 @@
-module.exports = {
+export default {
   future: {
     removeDeprecatedGapUtilities: true,
     purgeLayersByDefault: true

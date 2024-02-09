@@ -2,7 +2,7 @@ import { useTheme } from '@juliusmarminge/next-themes'
 import Link from 'next/link'
 import { useEffect, useState } from 'react'
 
-const Index = () => {
+export default function IndexPage() {
   const { theme, setTheme } = useTheme()
   const [mounted, setMounted] = useState(false)
   useEffect(() => setMounted(true), [])
@@ -35,5 +35,3 @@ const Index = () => {
     </div>
   )
 }
-
-export default Index
