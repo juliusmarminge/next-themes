@@ -1,5 +1,19 @@
 # Changelog
 
+## v0.3.2
+
+[compare changes](https://github.com/juliusmarminge/next-themes/compare/v0.3.1-1707470275.97f053b...v0.3.2)
+
+### 🏡 Chore
+
+- Eh? 3 ([f555468](https://github.com/juliusmarminge/next-themes/commit/f555468))
+- Fix publish config ([63efdda](https://github.com/juliusmarminge/next-themes/commit/63efdda))
+- Autopush on version bump ([19b415e](https://github.com/juliusmarminge/next-themes/commit/19b415e))
+
+### ❤️ Contributors
+
+- Juliusmarminge <julius0216@outlook.com>
+
 ## v0.3.1
 
 [compare changes](https://github.com/juliusmarminge/next-themes/compare/v0.3.1-1707470275.97f053b...v0.3.1)
