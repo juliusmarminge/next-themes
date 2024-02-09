@@ -8,17 +8,17 @@
     "start": "next start"
   },
   "dependencies": {
-    "next": "^14.1.0",
     "@juliusmarminge/next-themes": "workspace:*",
+    "next": "^14.1.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
   "devDependencies": {
     "@types/node": "20.11.17",
-    "@types/react": "^18.2.48",
-    "@types/react-dom": "18.2.7",
-    "postcss": "8.4.35",
-    "tailwindcss": "3.4.1",
+    "@types/react": "^18.2.55",
+    "@types/react-dom": "^18.2.19",
+    "postcss": "^8.4.35",
+    "tailwindcss": "^3.4.1",
     "typescript": "^5.3.3"
   }
 }

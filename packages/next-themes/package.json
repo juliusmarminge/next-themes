@@ -9,22 +9,24 @@
   "scripts": {
     "prepublish": "bunchee",
     "build": "bunchee",
-    "dev": "bunchee -w"
+    "dev": "bunchee -w",
+    "release": "changelogen --bump --publish && changelogen gh release",
+    "release:nightly": "changelogen --prerelease --publish"
   },
   "peerDependencies": {
     "react": "^16.8 || ^17 || ^18",
     "react-dom": "^16.8 || ^17 || ^18"
   },
   "devDependencies": {
-    "@types/react": "^18.2.48",
-    "bunchee": "^4.4.1",
+    "@types/react": "^18.2.55",
+    "bunchee": "^4.4.6",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "typescript": "^5.3.3"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/pacocoursey/next-themes.git"
+    "url": "https://github.com/juliusmarminge/next-themes.git"
   },
   "files": [
     "dist"

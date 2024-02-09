@@ -1,7 +1,6 @@
 {
   "private": true,
   "scripts": {
-    "prepublish": "pnpm build --filter=next-themes",
     "build": "turbo build",
     "start": "turbo start",
     "dev": "turbo dev",
@@ -10,14 +9,15 @@
     "format": "prettier . --write"
   },
   "devDependencies": {
-    "@playwright/test": "^1.41.0",
+    "@playwright/test": "^1.41.2",
+    "@testing-library/react": "^14.2.1",
     "@types/node": "20.11.17",
-    "prettier": "^3.2.4",
-    "@testing-library/react": "^14.1.2",
+    "changelogen": "^0.5.5",
     "jsdom": "^23.2.0",
-    "turbo": "^1.11.3",
-    "vite": "^5.0.12",
-    "vitest": "^1.2.1"
+    "prettier": "^3.2.5",
+    "turbo": "^1.12.3",
+    "vite": "^5.1.0",
+    "vitest": "^1.2.2"
   },
   "repository": {
     "type": "git",
