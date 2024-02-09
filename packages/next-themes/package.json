@@ -1,7 +1,7 @@
 {
   "name": "@juliusmarminge/next-themes",
   "type": "module",
-  "version": "0.3.0",
+  "version": "0.3.1-2",
   "license": "MIT",
   "publishConfig": {
     "access": "public"
@@ -11,7 +11,7 @@
     "build": "bunchee",
     "dev": "bunchee -w",
     "release": "changelogen --bump --publish && changelogen gh release",
-    "release:nightly": "changelogen --prerelease --publish"
+    "release:nightly": "changelogen --prerelease --release"
   },
   "peerDependencies": {
     "react": "^16.8 || ^17 || ^18",
